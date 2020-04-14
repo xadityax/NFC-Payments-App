@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Try2</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "32845890883",
+    "firebase_url": "https://npay-d86ad.firebaseio.com",
+    "project_id": "npay-d86ad",
+    "storage_bucket": "npay-d86ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32845890883:android:9196fdfb1a2ebe4fe01bf6",
+        "android_client_info": {
+          "package_name": "com.example.try2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32845890883-d3vim8rrudelmuul9jtf2qjoopdlabgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpckaAk6vKqm0_U1J5-sTHXyy2WQtSq7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32845890883-d3vim8rrudelmuul9jtf2qjoopdlabgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
