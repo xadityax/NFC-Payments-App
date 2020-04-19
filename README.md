@@ -2,7 +2,11 @@
 NFC enabled Android based Payments application
 
 
-![UI](https://github.com/xadityax/NFC-Payments-App/blob/master/rsz_screenshot_1587242332.png)
+![UI](https://github.com/xadityax/NFC-Payments-App/blob/master/Screenshot_1587242332.png)
+
+![UI](https://github.com/xadityax/NFC-Payments-App/blob/master/Screenshot_1587242370.png)
+
+![UI](https://github.com/xadityax/NFC-Payments-App/blob/master/Screenshot_1587242389.png)
 
 
 Android Studio - IDE
